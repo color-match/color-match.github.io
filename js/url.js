@@ -3,7 +3,7 @@ var iOS = /(iPhone|iPad|iPod)/g.test(navigator.userAgent);
 
 alert(navigator.userAgent)
 alert(android)
-alert(ios)
+alert(iOS)
 
 if (android && !iOS) {
     document.getElementById('main').innerHTML = ""
