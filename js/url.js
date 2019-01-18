@@ -5,6 +5,6 @@ if (android && !iOS) {
     window.location.href = "https://play.google.com/store/apps/details?id=com.colormatch"
 }
 
-else {
+else if (iOS && !android) {
     window.location.href = ""
 }
