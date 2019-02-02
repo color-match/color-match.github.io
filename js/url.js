@@ -6,5 +6,5 @@ if (android && !iOS) {
 }
 
 else if (iOS && !android) {
-    window.location.href = "https://itunes.apple.com"
+    window.location.href = "https://itunes.apple.com/ng/app/color-match-game/id1449516057?mt=8"
 }
