@@ -6,5 +6,5 @@ if (android && !iOS) {
 }
 
 else if (iOS && !android) {
-    window.location.href = "https://mooredh.github.io/color-match-support"
+    window.location.href = "https://itunes.apple.com"
 }
